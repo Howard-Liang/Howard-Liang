@@ -11,7 +11,7 @@
   <img src="./src/walk.gif" alt="animated" width="450"/>
 </p>
 
-- ⚡ Fun fact **I like cats** :cat2: 
+<!-- - ⚡ Fun fact **I like cats** :cat2: -->
 
 [![Gmail Badge](https://img.shields.io/badge/-howard881220@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:howard881220@gmail.com)](mailto:howard881220@gmail.com)
 
