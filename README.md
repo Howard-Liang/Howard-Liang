@@ -7,7 +7,9 @@
 </p>
 -->
 
-<!--![gif](./src/walk.gif)-->
+<p align="center">
+  <img src="./src/walk.gif" alt="animated" width="600"/>
+</p>
 
 - ⚡ Fun fact **I like cats** :cat2: 
 
