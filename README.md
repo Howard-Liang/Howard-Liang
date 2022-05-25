@@ -13,6 +13,10 @@
 
 <!-- - ⚡ Fun fact **I like cats** :cat2: -->
 
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howard-liang&show_icons=true&locale=en" alt="howard-liang" /></p>
+-->
+
 :email: contact info
 
 [![Gmail Badge](https://img.shields.io/badge/-howard881220@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:howard881220@gmail.com)](mailto:howard881220@gmail.com)
