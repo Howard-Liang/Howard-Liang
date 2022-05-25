@@ -13,9 +13,9 @@
 
 <!-- - ⚡ Fun fact **I like cats** :cat2: -->
 
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howard-liang&show_icons=true&locale=en" alt="howard-liang" /></p>
--->
+
 
 :email: contact info
 
