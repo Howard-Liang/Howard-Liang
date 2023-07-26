@@ -1,5 +1,5 @@
 <h2 align="center">Hi :hand:, I am Hao-Wei Liang</h2>
-<h3 align="center">A passionate electrical engineer from Taiwan ⚡, interested in VLSI design and signal processing 📲 </h3>
+<h3 align="center">A passionate electrical engineer from Taiwan ⚡, interested in digital circuit and VLSI design 📲 </h3>
 
 <!--
 <p align="center">
